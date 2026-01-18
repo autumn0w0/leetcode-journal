@@ -10,3 +10,7 @@ This solution uses the **sliding window** technique to find the longest substrin
 - Continuously update the character’s latest index in the dictionary.
 
 This ensures that the window always contains unique characters while scanning the string only once.
+
+## Submission
+
+https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1286656791/
